@@ -30,3 +30,7 @@ See the following files
 
 <a href="https://github.com/kushalzone/NepaliStemmer/blob/master/src/main/java/org/inepal/products/nlp/compounds/NepaliPrefixes.java">NepaliPrefixes</a>
 
+## How to contact me?
+
+I am available at LinkedIn. You can contact me via there. https://www.linkedin.com/in/kushalp/
+
