@@ -3,6 +3,9 @@ package org.inepal.products.nlp.compounds;
 /**
  * @author Kushal Paudyal
  * www.inepal.org | www.icodejava.com
+ *
+ * These are some common ways Nepali names can end. This list can be useful for
+ * either stemming for Named Entity Recognition in addition to other usages.
  */
 public enum CompoundWordEndingPeopleName {
 

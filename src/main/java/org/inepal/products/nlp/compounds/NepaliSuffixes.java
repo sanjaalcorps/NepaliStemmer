@@ -2,9 +2,12 @@ package org.inepal.products.nlp.compounds;
 
 /**
  * @author Kushal Paudyal
+ * www.inepal.org | www.icodejava.com
  * This class represents a list of potential suffixes that are used in Nepali Languages.
  * Some of these could be independent words in themselves and act as suffix
  * when attached to another word.
+ *
+ * This list can be useful for stemming.
  */
 public enum NepaliSuffixes {
 

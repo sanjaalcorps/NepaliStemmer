@@ -2,8 +2,10 @@ package org.inepal.products.nlp.compounds;
 
 /**
  * @author Kushal Paudyal
- * www.icodejava.com
+ * www.icodejava.com | www.icodejava.com
  * This class represents a list of potential prefixes that are used in Nepali Languages.
+ *
+ * This list can be useful for stemming.
  */
 public enum NepaliPrefixes {
 
