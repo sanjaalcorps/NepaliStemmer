@@ -12,9 +12,9 @@ www.inepal.org | www.icodejava.com
 <blockquote>String root = NepaliStemmer.getNepaliRootWord(someCompoundWord);</blockquote>
 
 This stemmer is based on 
-WordEndings (e.g. स्थानलगायत where लगायत is the WordEnding)
-Name Endings (e.g. रामकुमार where कुमार is the Name Ending)
-Place Endings 
+WordEndings (e.g. स्थानलगायत where लगायत is the WordEnding),
+Name Endings (e.g. रामकुमार where कुमार is the Name Ending),
+Place Endings ,
 Suffixes
 
 It strips off those compound word forming text from the word.
