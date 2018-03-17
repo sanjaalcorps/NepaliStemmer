@@ -44,14 +44,6 @@ public enum CompoundWordEndingPeopleName {
 
     ;
 
-    //narendra
-    //
-    //BHAKTA
-
-
-
-
-
     private String nameEnding;
 
     CompoundWordEndingPeopleName(String nameEnding) {
