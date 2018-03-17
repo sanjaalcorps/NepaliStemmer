@@ -4,9 +4,9 @@ Nepali Stemmer for Natural Language Processing, Machine Learning and more
 @author Kushal Paudyal
 www.inepal.org | www.icodejava.com
 
-### Disclaimer: Not a final solution. Use it at your own risk.
-### Developers - Feel free to fork it and send me pull requests with your improvements.
-### Found issues? Report it via Issues Tab.
+##### Disclaimer: Not a final solution. Use it at your own risk.
+##### Developers - Feel free to fork it and send me pull requests with your improvements.
+##### Found issues? Report it via Issues Tab.
 
 ## Usage
 <blockquote>String root = NepaliStemmer.getNepaliRootWord(someCompoundWord);</blockquote>
