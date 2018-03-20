@@ -1,12 +1,12 @@
 # NepaliStemmer
-Nepali Stemmer for Natural Language Processing, Machine Learning and more
+Nepali Stemmer for Natural Language Processing, Machine Learning and more. This is a part of the Nepali Natural Language project that I am currently developing in private (Bitbucket). This portion is released for public use, review and improvement. I will be releasing other useful components slowly, or to someone who is willing to volunteer to my project.
 
 @author Kushal Paudyal
 www.inepal.org | www.icodejava.com
 
-##### Disclaimer: Not a final solution. Use it at your own risk.
+#### Disclaimer: Not a final solution. Use it at your own risk.
 ##### Developers - Feel free to fork it and send me pull requests with your improvements.
-##### Found issues? Report it via Issues Tab.
+#### Found issues? Report it via Issues Tab.
 
 ## Usage
 <blockquote>String root = NepaliStemmer.getNepaliRootWord(someCompoundWord);</blockquote>
@@ -24,17 +24,12 @@ Prefixes have not been integrated yet.
 ## Need to add more to the list?
 See the following files
 
-<a href="https://github.com/kushalzone/NepaliStemmer/blob/master/src/main/java/org/inepal/products/nlp/compounds/CompoundWordEnding.java">CompoundWordEnding</a>
-
-<a href="https://github.com/kushalzone/NepaliStemmer/blob/master/src/main/java/org/inepal/products/nlp/compounds/CompoundWordEndingPeopleName.java">CompoundWordEndingPeopleName.java</a>
-
-<a href="https://github.com/kushalzone/NepaliStemmer/blob/master/src/main/java/org/inepal/products/nlp/compounds/CompoundWordEndingPlaces.java">CompoundWordEndingPlaces</a>
-
-<a href="https://github.com/kushalzone/NepaliStemmer/blob/master/src/main/java/org/inepal/products/nlp/compounds/NepaliSuffixes.java">NepaliSuffixes</a>
-
-<a href="https://github.com/kushalzone/NepaliStemmer/blob/master/src/main/java/org/inepal/products/nlp/compounds/NepaliPrefixes.java">NepaliPrefixes</a>
+src/main/java/org/inepal/products/nlp/compounds/CompoundWordEnding.java
+src/main/java/org/inepal/products/nlp/compounds/CompoundWordEndingPeopleName.java
+src/main/java/org/inepal/products/nlp/compounds/CompoundWordEndingPlaces.java
+src/main/java/org/inepal/products/nlp/compounds/NepaliSuffixes.java
+src/main/java/org/inepal/products/nlp/compounds/NepaliPrefixes.java
 
 ## How to contact me?
-
 I am available at LinkedIn. You can contact me via there. https://www.linkedin.com/in/kushalp/
 
