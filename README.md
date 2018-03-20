@@ -22,8 +22,7 @@ Prefixes have not been integrated yet.
 ### Usage 2 - Getting Affirmative/Positive Verb Variations
 <blockquote>
   
-  String input = "अँगाल्नु";
-  String output = NepaliStemmer.getAffirmativeVerbVariations(input).toString();
+  String output = NepaliStemmer.getAffirmativeVerbVariations("अँगाल्नु").toString();
   
   </blockquote>
   
