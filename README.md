@@ -39,8 +39,7 @@ Prefixes have not been integrated yet.
   This is work in progress. The idea is to produce a negative verb variations such as नअँगाल, नअँगाल्नु from the word "अँगाल्नु";
 <blockquote>
   
-  String input = "अँगाल्नु";
-  String output = NepaliStemmer.getNegativeVerbVariations(input).toString();
+  String output = NepaliStemmer.getNegativeVerbVariations("अँगाल्नु").toString();
   
   </blockquote>
   
