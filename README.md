@@ -8,16 +8,16 @@ www.inepal.org | www.icodejava.com
 ##### Developers - Feel free to fork it and send me pull requests with your improvements.
 #### Found issues? Report it via Issues Tab.
 
-## Usage
+## Usage 1 - Getting root words
 <blockquote>String root = NepaliStemmer.getNepaliRootWord(someCompoundWord);</blockquote>
 
-This stemmer is based on 
-WordEndings (e.g. स्थानलगायत where लगायत is the WordEnding),
-Name Endings (e.g. रामकुमार where कुमार is the Name Ending),
-Place Endings ,
-Suffixes
+This stemmer is based on a list of following. It strips off those compound word forming text from the word, giving a potential root word (which is not the same as base word)
+- WordEndings (e.g. स्थानलगायत where लगायत is the WordEnding),
+- Name Endings (e.g. रामकुमार where कुमार is the Name Ending),
+- Place Endings ,
+- Suffixes
 
-It strips off those compound word forming text from the word.
+
 
 Prefixes have not been integrated yet.
 
