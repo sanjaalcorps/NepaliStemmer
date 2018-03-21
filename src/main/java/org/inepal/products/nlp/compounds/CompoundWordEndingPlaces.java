@@ -51,6 +51,7 @@ public enum CompoundWordEndingPlaces {
     PAATI("पाटी"),
     PANI("पानी"),
     PAUWA("पौवा"),
+    PHEDI("फेदी"),
     POKHARI("पोखरी"),
     PUL("पुल"),
     PUR("पुर"),
@@ -58,6 +59,7 @@ public enum CompoundWordEndingPlaces {
     SHWARI("श्वरी"),
     SIDDI("सिद्धि"),
     STHAN("स्थान"),
+    TAAL("ताल"),
     TAAR("टार"),
     THAAN("थान"),
     THALI("थली"),
@@ -68,7 +70,8 @@ public enum CompoundWordEndingPlaces {
     VASTU("वस्तु"),
     VESI("वेसी");
 
-    //फेदी
+    //
+    //
     private String placeEnding;
 
     CompoundWordEndingPlaces(String placeEnding) {
