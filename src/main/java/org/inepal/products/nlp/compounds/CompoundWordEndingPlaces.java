@@ -20,17 +20,22 @@ public enum CompoundWordEndingPlaces {
     CHAUR("चौर"),
     CHAUUR("चउर"),
     CHOK("चोक"),
+    CHULI("चुली"),
     DAANDA("डाँडा"),
+    DHAAM("धाम"),
     DHARA("धारा"),
     DHUNGA_1("ढुंगा"),
     DHUNGA_2("ढुङ्गा"),
-    DHURA("धुरा"),
+    DHURA("धुरा"),                   //e.g. बैगुन्धुरा
+    GAACHI("गाछी"),                 //e.g. तोपगाछी
+    GAAD("गाड"),                    //e.g. ठूलीगाड
     GADHI("गढी"),
     GADI("गडी"),
     GANGA("गंगा"),
     GANJ("गन्ज"),
     GAUN("गाउँ"),
     GHAAT("घाट"),
+    GHARE("घरे"),
     GOHA("गोह"),
     GRAAM("ग्राम"),
     KHAAL("खाल"),
@@ -40,6 +45,8 @@ public enum CompoundWordEndingPlaces {
     KHET("खेत"),
     KHOLAA("खोला"),
     KHORI("खोरी"),
+    KOSHI("कोशी"),
+    KOSI("कोसी"),
     KOT("कोट"),
     KUNDA("कुण्ड"),
     LUNG("लुङ"),
@@ -50,12 +57,14 @@ public enum CompoundWordEndingPlaces {
     PAATA("पाटा"),
     PAATI("पाटी"),
     PANI("पानी"),
+    PATH("पथ"),
     PAUWA("पौवा"),
     PHEDI("फेदी"),
     POKHARI("पोखरी"),
     PUL("पुल"),
     PUR("पुर"),
     PURI("पुरी"),
+    RIYAA("रिया"),
     SHWARI("श्वरी"),
     SIDDI("सिद्धि"),
     STHAN("स्थान"),
@@ -68,10 +77,10 @@ public enum CompoundWordEndingPlaces {
     VAAS("वास"),
     VASTI("वस्ती"),
     VASTU("वस्तु"),
-    VESI("वेसी");
+    VESI("वेसी"),
 
-    //
-    //
+    ;
+
     private String placeEnding;
 
     CompoundWordEndingPlaces(String placeEnding) {
