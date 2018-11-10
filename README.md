@@ -2,7 +2,7 @@
 Nepali Stemmer based on Suffix-stripping algorithm for Natural Language Processing, Machine Learning and more. This is a part of the Nepali Natural Language project that I am currently developing in private (Bitbucket). This portion is released for public use, review and improvement. I will be releasing other useful components slowly, or to someone who is willing to volunteer to my project.
 
 @author Kushal Paudyal
-<br/>www.inepal.org | www.icodejava.com
+<br/>www.sanjaal.com | www.inepal.org | www.icodejava.com
 
 #### Disclaimer: Not a final solution. Use it at your own risk.
 ##### Developers - Feel free to fork it and send me pull requests with your improvements.
